@@ -1,0 +1,168 @@
+Regions,Countries,Cities,Dataset
+Africa,Algeria,Algiers,ALALGIER
+Africa,Burundi,Bujumbura,BIBJMBRA
+Africa,Benin,Cotonou,BJCOTNOU
+Africa,Central African Republic,Bangui,CEBANGUI
+Africa,Congo,Brazzaville,CGBRZAVL
+Africa,Egypt,Cairo,EGCAIRO
+Africa,Ethiopia,Addis Ababa,ETADSABA
+Africa,Gabon,Libreville,GOLIBRVL
+Africa,Gambia,Banjul,GBBANJUL
+Africa,Guinea,Conakry,GNCONKRY
+Africa,Guinea-Bissau,Bissau,GWBISSAU
+Africa,Ivory Coast,Abidjan,IVABIDJN
+Africa,Kenya,Nairobi,KNNAIROB
+Africa,Morocco,Rabat,MCRABAT
+Africa,Madagascar,Antananarivo,MGANTRVO
+Africa,Mauritania,Nouakchott,MTNOKCHT
+Africa,Malawi,Lilongwe,MWLILNGW
+Africa,Mozambique,Maputo,MZMAPUTO
+Africa,Namibia,Windhoek,NMWNDHOK
+Africa,Nigeria,Niamey,NRNIAMEY
+Africa,Nigeria,Lagos,NILAGOS
+Africa,Senegal,Dakar,SGDAKAR
+Africa,Sierra Leone,Freetown,SLFRETWN
+Africa,South Africa,Capetown,ZACAPTWN
+Africa,Togo,Lome,TGLOME
+Africa,Tunisia,Tunis,TSTUNIS
+Africa,Tanzania,Dar Es Salaam,TNDESALM
+Africa,Uganda,Kampala,UGKAMPAL
+Africa,Zambia,Lusaka,ZBLUSAKA
+Asia,Bangladesh,Dhaka,BWDHAKA
+Asia,China,Beijing,CIBIEJNG
+Asia,China,Chengdu,CICHNGDU
+Asia,China,Guangzhou,CIGNGZHO
+Asia,China,Shanghai,CISHANGH
+Asia,China,Shenyang,CISHNYNG
+Asia,Hong Kong,Hong Kong,HKHONGKG
+Asia,India,Bombay,INBOMBAY
+Asia,India,Calcutta,INCALCUT
+Asia,India,Chennai,INCHENAI
+Asia,India,Delhi,INDELHI
+Asia,Indonesia,Jakarta,IDJAKRTA
+Asia,Japan,Osaka,JPOSAKA
+Asia,Japan,Sapporo,JPSAPPOR
+Asia,Japan,Tokyo,JPTOKYO
+Asia,Kazakhstan,Almaty,RAALMATY
+Asia,Kyrgyzstan,Bishkek,RABSHKEK
+Asia,Laos,Vientiane,LAVIENTN
+Asia,Malaysia,Kuala Lumpur,MSKUALA
+Asia,Mongolia,Ulan-bator,MOULNBTR
+Asia,Myanmar (Burma),Rangoon,BMRNGOON
+Asia,Nepal,Katmandu,NPKTMNDU
+Asia,North Korea,Pyongyang,KRPYGYNG
+Asia,Pakistan,Islamabad,PKISLMBD
+Asia,Pakistan,Karachi,PKKARACH
+Asia,Philippines,Manila,PHMANILA
+Asia,Singapore,Singapore,SRSINGAP
+Asia,South Korea,Seoul,KOSEOUL
+Asia,Sri Lanka,Colombo,SBCOLMBO
+Asia,Taiwan,Taipei,TWTAIPEI
+Asia,Tajikistan,Dusanbe,RADUSNBE
+Asia,Thailand,Bangkok,THBNGKOK
+Asia,Turkmenistan,Ashabad,RAASHBAD
+Asia,Uzbekistan,Tashkent,RATASKNT
+Asia,Vietnam,Hanoi,VSHANOI
+Australia/South Pacific ,Australia,Brisbane,AUBRSBAN
+Australia/South Pacific ,Australia,Canberra,AUCNBERA
+Australia/South Pacific ,Australia,Melbourne,AUSYDNEY
+Australia/South Pacific ,Australia,Perth,AUPERTH
+Australia/South Pacific ,Australia,Sydney,AUMELBRN
+Australia/South Pacific ,New Zealand,Auckland,NZACKLND
+Europe,Albania,Tirana,ABTIRANA
+Europe,Austria,Vienna,OSVIENNA
+Europe,Belarus,Minsk,BYMINSK
+Europe,Belgium,Brussels,BXBRUSSL
+Europe,Bulgaria,Sofia,BUSOFIA
+Europe,Croatia,Zagreb,YGZAGREB
+Europe,Cyprus,Nicosia,CYNICOSI
+Europe,Czech Republic,Prague,CZPRAGUE
+Europe,Denmark,Copenhagen,DNCOPNHG
+Europe,Finland,Helsinki,FIHELSIN
+Europe,France,Paris,FRPARIS
+Europe,France,Bordeaux,FRBRDAUX
+Europe,Germany,Bonn,DLBONN
+Europe,Germany,Frankfurt,DLFRNKFT
+Europe,Germany,Hamburg,DLHAMBUR
+Europe,Germany,Munich,DLMUNICH
+Europe,Georgia,Tbilisi,RSTBLISI
+Europe,Greece,Athens,GRATHENS
+Europe,Hungary,Budapest,HUBUDPST
+Europe,Iceland,Reykjavik,ILREYKJV
+Europe,Ireland,Dublin,IEDUBLIN
+Europe,Italy,Milan,IYMILAN
+Europe,Italy,Rome,IYROME
+Europe,Latvia,Riga,RSRIGA
+Europe,Macedonia,Skopje,YGSKOPJE
+Europe,The Netherlands,Amsterdam,NLAMSTDM
+Europe,Norway,Oslo,NOOSLO
+Europe,Poland,Warsaw,PLWARSAW
+Europe,Portugal,Lisbon,POLISBON
+Europe,Romania,Bucharest,ROBCHRST
+Europe,Russia,Moscow,RSMOSCOW
+Europe,Russia,Yerevan,RSYERVAN
+Europe,Serbia-Montenegro,Pristina,YGPRISTN
+Europe,Slovakia,Bratislava,CZBRTSLV
+Europe,Spain,Barcelona,SPBRCLNA
+Europe,Spain,Bilbao,SPBILBAO
+Europe,Spain,Madrid,SPMADRID
+Europe,Sweden,Stockholm,SNSTKHLM
+Europe,Switzerland,Bern,SWBERN
+Europe,Switzerland,Geneva,SWGENEVA
+Europe,Switzerland,Zurich,SWZURICH
+Europe,Ukraine,Kiev,URKIEV
+Europe,United Kingdom,Belfast,UKBELFST
+Europe,United Kingdom,London,UKLONDON
+Europe,Yugoslavia,Belgrade,YGBLGRDE
+Middle East,Bahrain,Manama,BNMANAMA
+Middle East,Israel,Tel Aviv,ISTELAVI
+Middle East,Jordan,Amman,JDAMMAN
+Middle East,Kuwait,Kuwait,KWKUWAIT
+Middle East,Lebanon,Beirut,LBBEIRUT
+Middle East,Oman,Muscat,OMMUSCAT
+Middle East,Qatar,Doha,QTDOHA
+Middle East,Saudi Arabia,Dhahran,SDDHAHRN
+Middle East,Saudi Arabia,Riyadh,SDRIYADH
+Middle East,Syria,Damascus,SYDMSCUS
+Middle East,Turkey,Ankara,TUANKARA
+Middle East,Turkey,Istanbul,TUISTNBL
+Middle East,United Arab Emirates,Abu Dhabi,ERABUDBI
+Middle East,United Arab Emirates,Dubai,ERDUBAI
+North America,Canada,Calgary,CNCALGRY
+North America,Canada,Edmonton,CNEDMNTN
+North America,Canada,Halifax,CNHLIFAX
+North America,Canada,Montreal,CNMONTRL
+North America,Canada,Ottawa,CNOTTOWA
+North America,Canada,Quebec,CNQUEBEC
+North America,Canada,Regina,CNREGINA
+North America,Canada,Toronto,CNTORONT
+North America,Canada,Vancouver,CNVANCVR
+North America,Canada,Winnipeg,CNWINNPG
+North America,Mexico,Guadalajara,MXGUADLJ
+North America,Mexico,Mexico City,MXMXCITY
+North America,Mexico,Monterrey,MXMONTRY
+South/Central America & Carribean,Argentina,Buenos Aires,AGBUENOS
+South/Central America & Carribean,Bahamas,Nassau,BANASSAU
+South/Central America & Carribean,Bermuda,Hamilton,BEHMLTON
+South/Central America & Carribean,Belize,Belize City,BHBELIZE
+South/Central America & Carribean,Bolivia,La Paz,BOLAPAZ
+South/Central America & Carribean,Barbados,Bridgetown,BRBRGTWN
+South/Central America & Carribean,Brazil,Brasilia,BZBRSLIA
+South/Central America & Carribean,Brazil,Rio de Janeiro,BZRIODJN
+South/Central America & Carribean,Brazil,Sao Paulo,BZSAOPLO
+South/Central America & Carribean,Colombia,Bogota,COBOGOTA
+South/Central America & Carribean,Costa Rica,San Jose,CSSANJOS
+South/Central America & Carribean,Cuba,Havana,CUHAVANA
+South/Central America & Carribean,Dominican Republic,Santo Domingo,DRSNTODM
+South/Central America & Carribean,Equador,Guayaquil,EQGUAYQL
+South/Central America & Carribean,Equador,Quito,EQQUITO
+South/Central America & Carribean,Guatemala,Guatemala City,GUGUATML
+South/Central America & Carribean,Guyana,Georgetown,GYGRGTWN
+South/Central America & Carribean,Haiti,Port au Prince,HAPORTAP
+South/Central America & Carribean,Honduras,Tegucigalpa,HOTEGUCI
+South/Central America & Carribean,Nicaragua,Managua,NKMANAGU
+South/Central America & Carribean,Panama,Panama City,PMPANAMA
+South/Central America & Carribean,Peru,Lima,PRLIMA
+South/Central America & Carribean,Suriname,Paramaribo,SMPRMRIB
+South/Central America & Carribean,Uruguay,Montvideo,UYMNTVID
+South/Central America & Carribean,Venezuela,Caracas,VNCARACS
